@@ -1,0 +1,36 @@
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+	height: 450px;
+	width: 70%;
+	margin: auto;
+}
+
+#header {
+	text-align: center;
+	padding: 2px;
+	background-color: #00ffff;
+}
+
+#nav {
+	line-height: 55px;
+	text-align: center;
+	height: 582px;
+	padding: 5px;
+	width: 20%;
+	float: left;
+	background-color: #00ffff;
+}
+
+#section {
+	height: 582px;
+	width: 80%;
+	float: left;
+	padding: 1px;
+	background-color: pink;
+}
+
+#footer {
+	background-color: #00ffff;
+	clear: both;
+	text-align: center;
+	padding: 2px;
+}
